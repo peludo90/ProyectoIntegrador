@@ -19,7 +19,7 @@
         android:layout_height="wrap_content"
         android:onClick="abrirMapa"
         android:text="@string/botonmapa"
-        android:background="#ffffff"
+        android:background="#0f9384"
         />
 
 </RelativeLayout>
