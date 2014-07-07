@@ -57,6 +57,22 @@
             android:name="co.udea.pi.mapametro.MapActivity"
             android:label="@string/title_activity_map" >
         </activity>
+        <activity
+            android:name="co.udea.pi.mapametro.LineActivity"
+            android:label="@string/title_activity_line" >
+        </activity>
+        <activity
+            android:name="co.udea.pi.mapametro.StationActivity"
+            android:label="@string/title_activity_station" >
+        </activity>
+        <activity
+            android:name="co.udea.pi.mapametro.LinesListActivity"
+            android:label="@string/title_activity_lines_list" >
+        </activity>
+        <activity
+            android:name="co.udea.pi.mapametro.EstationsListActivity"
+            android:label="@string/title_activity_estations_list" >
+        </activity>
     </application>
 
 </manifest>
